@@ -1,6 +1,6 @@
 # GarciaAlegria.github.io
 Laboratorio 2 web
-
+hola
 bandit1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 bandit2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
